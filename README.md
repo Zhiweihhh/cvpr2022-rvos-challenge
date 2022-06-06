@@ -1,6 +1,6 @@
 # Overview
 
-This is an official repo for our The 4th Large-scale Video Object Segmentation Challenge solutions for Referring Video Object Segmentation([Track3](https://youtube-vos.org/dataset/rvos/)). Our team achieved the best performance on Referring Video Object Segmentation([Leaderboard](https://codalab.lisn.upsaclay.fr/competitions/3282#results)). More details about the workshop can be found [here](https://youtube-vos.org/challenge/2022/).
+This is an official repo for our The 4th Large-scale Video Object Segmentation Challenge solutions for Referring Video Object Segmentation([Track3](https://youtube-vos.org/dataset/rvos/)). Our team TAL-AI achieved the best performance on Referring Video Object Segmentation([Leaderboard](https://codalab.lisn.upsaclay.fr/competitions/3282#results)). More details about the workshop can be found [here](https://youtube-vos.org/challenge/2022/).
 
 Our code is based on [ReferFormer](https://github.com/wjn922/referformer) and [AOT](https://github.com/yoxu515/aot-benchmark).
 
